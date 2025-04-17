@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hHHp76+gpgyXV5igKFxBOaSm3RjZirzkyeFOaCjduHg=",
+  "Source": "SBBTransportAPI",
+  "BasePath": "_content/SBBTransportAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

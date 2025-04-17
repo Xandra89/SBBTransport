@@ -1,0 +1,38 @@
+﻿@page "/"
+<h3> SBB Verbindungssuche</h3>
+
+<div>
+    <label>Von:</label>
+    <input @bind="From" placeholder="Startbahnhof" />
+</div>
+<div>
+    <label>Nach:</label>
+    <input @bind="To" placeholder="Zielbahnhof" />
+</div>
+<button @onclick="GetConnections">Suchen</button>
+
+@if (connections !=null)
+{
+    <h4>Ergebnisse</h4>
+    <ul>
+        @foreach (var connection in connections)
+        {
+            <li>@connection</li>
+        }
+    </ul>
+}
+
+@code{
+    private string From { get; set; } = "Zürich";
+    private string To { get; set; } = "Bern";
+    private List<string> connection = new();
+
+    [Inject] private HttpClient Http { get; set; }
+
+    private async Task GetConnections()
+    {
+        var url = $"https://localhost:5031/api/transport/connections?from={From}&to={To}";
+        var result = await Http.GetStringAsync(url);
+        GetConnections = new List<string> { result }; //Hier kannst du JSON parsen
+    }
+}
