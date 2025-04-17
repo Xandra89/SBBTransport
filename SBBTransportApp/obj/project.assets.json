@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT-Projekte_Schulung\\SBBTransportApp\\SBBTransportApp.csproj",
+      "projectUniqueName": "C:\\SBBTransport\\SBBTransportApp\\SBBTransportApp.csproj",
       "projectName": "SBBTransportApp",
-      "projectPath": "C:\\GIT-Projekte_Schulung\\SBBTransportApp\\SBBTransportApp.csproj",
+      "projectPath": "C:\\SBBTransport\\SBBTransportApp\\SBBTransportApp.csproj",
       "packagesPath": "C:\\Users\\kunza\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT-Projekte_Schulung\\SBBTransportApp\\obj\\",
+      "outputPath": "C:\\SBBTransport\\SBBTransportApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunza\\AppData\\Roaming\\NuGet\\NuGet.Config",

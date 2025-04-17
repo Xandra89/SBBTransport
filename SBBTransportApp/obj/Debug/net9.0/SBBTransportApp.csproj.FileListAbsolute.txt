@@ -78,3 +78,12 @@ C:\GIT-Projekte_Schulung\SBBTransportApp\obj\Debug\net9.0\refint\SBBTransportApp
 C:\GIT-Projekte_Schulung\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.pdb
 C:\GIT-Projekte_Schulung\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.genruntimeconfig.cache
 C:\GIT-Projekte_Schulung\SBBTransportApp\obj\Debug\net9.0\ref\SBBTransportApp.dll
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.AssemblyInfoInputs.cache
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.AssemblyInfo.cs
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.csproj.CoreCompileInputs.cache
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.sourcelink.json
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.dll
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\refint\SBBTransportApp.dll
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.pdb

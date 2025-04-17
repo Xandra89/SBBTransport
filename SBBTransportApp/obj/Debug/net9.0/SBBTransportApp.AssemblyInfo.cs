@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SBBTransportApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d2a0ab9748cb67ad448f904848b29fc54f3c34c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4289d6a8d99051c04a97544d9238b8e75003df07")]
 [assembly: System.Reflection.AssemblyProductAttribute("SBBTransportApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SBBTransportApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
