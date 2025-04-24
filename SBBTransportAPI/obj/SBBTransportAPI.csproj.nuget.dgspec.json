@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\SBBTransportAPI.csproj": {}
+    "C:\\SBBTransport\\SBBTransportAPI\\SBBTransportAPI.csproj": {}
   },
   "projects": {
-    "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\SBBTransportAPI.csproj": {
+    "C:\\SBBTransport\\SBBTransportAPI\\SBBTransportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\SBBTransportAPI.csproj",
+        "projectUniqueName": "C:\\SBBTransport\\SBBTransportAPI\\SBBTransportAPI.csproj",
         "projectName": "SBBTransportAPI",
-        "projectPath": "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\SBBTransportAPI.csproj",
+        "projectPath": "C:\\SBBTransport\\SBBTransportAPI\\SBBTransportAPI.csproj",
         "packagesPath": "C:\\Users\\kunza\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\obj\\",
+        "outputPath": "C:\\SBBTransport\\SBBTransportAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kunza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,7 @@
 ﻿@page "/"
-<h3> SBB Verbindungssuche</h3>
+@inject HttpClient Http
+
+<h3>SBB Verbindungssuche</h3>
 
 <div>
     <label>Von:</label>
@@ -25,7 +27,7 @@
 @code{
     private string From { get; set; } = "Zürich";
     private string To { get; set; } = "Bern";
-    private List<string> connection = new();
+    private List<string> connections = new();
 
     [Inject] private HttpClient Http { get; set; }
 
@@ -33,6 +35,6 @@
     {
         var url = $"https://localhost:5031/api/transport/connections?from={From}&to={To}";
         var result = await Http.GetStringAsync(url);
-        GetConnections = new List<string> { result }; //Hier kannst du JSON parsen
+        connections = new List<string> { result }; //Hier kannst du JSON parsen
     }
 }

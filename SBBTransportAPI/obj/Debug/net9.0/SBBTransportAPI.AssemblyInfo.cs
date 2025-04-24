@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SBBTransportAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5715e2f7b71ea4901e669b271a0d17d8e97b02cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1cd2b2ea9bb9c22ae08578568b0503be72314cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SBBTransportAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SBBTransportAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

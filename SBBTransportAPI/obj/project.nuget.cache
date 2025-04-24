@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfmZcmb/uqY=",
+  "dgSpecHash": "cPHj0Y4+Hh0=",
   "success": true,
-  "projectFilePath": "C:\\GIT-Projekte_Schulung\\SBBTransportAPI\\SBBTransportAPI.csproj",
+  "projectFilePath": "C:\\SBBTransport\\SBBTransportAPI\\SBBTransportAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kunza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\kunza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
