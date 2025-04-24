@@ -29,8 +29,6 @@
     private string To { get; set; } = "Bern";
     private List<string> connections = new();
 
-    [Inject] private HttpClient Http { get; set; }
-
     private async Task GetConnections()
     {
         var url = $"https://localhost:5031/api/transport/connections?from={From}&to={To}";

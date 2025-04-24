@@ -158,3 +158,6 @@ C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTr
 C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\staticwebassets.pack.json
 C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.genruntimeconfig.cache
 C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\ref\SBBTransportApp.dll
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\compressed\sjekm3t3mb-y0u07ut4gc.gz
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.RazorAssemblyInfo.cache
+C:\SBBTransport\SBBTransportApp\obj\Debug\net9.0\SBBTransportApp.RazorAssemblyInfo.cs

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1gDW+zQhgCkQZDurs0qjYNu2TmcNY8CXJq2vqAjDK1I=",
+  "Hash": "qdA46gPIAAENFwiAZN7P4HvNj2f9Qwb0FflNWXTYmuM=",
   "Source": "SBBTransportApp",
   "BasePath": "_content/SBBTransportApp",
   "Mode": "Default",
@@ -878,6 +878,27 @@
       "OriginalItemSpec": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\sjekm3t3mb-y0u07ut4gc.gz",
+      "SourceId": "SBBTransportApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SBBTransportApp",
+      "RelativePath": "index#[.{fingerprint=y0u07ut4gc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9kvns0md14",
+      "Integrity": "d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\index.html"
+    },
+    {
       "Identity": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\u1gc91c3hy-ee0r1s7dh0.gz",
       "SourceId": "SBBTransportApp",
       "SourceType": "Discovered",
@@ -1086,6 +1107,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\index.html",
+      "SourceId": "SBBTransportApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\",
+      "BasePath": "_content/SBBTransportApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0u07ut4gc",
+      "Integrity": "/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2390,6 +2432,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\sjekm3t3mb-y0u07ut4gc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003125000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\sjekm3t3mb-y0u07ut4gc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc="
+        }
+      ]
+    },
+    {
+      "Route": "index.y0u07ut4gc.html",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\sjekm3t3mb-y0u07ut4gc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003125000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0u07ut4gc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0="
+        }
+      ]
+    },
+    {
+      "Route": "index.y0u07ut4gc.html",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0u07ut4gc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vjeiy6jM8TZtVSU5FnUdYXApseUen2YNPofzQKPeB0="
+        }
+      ]
+    },
+    {
+      "Route": "index.y0u07ut4gc.html.gz",
+      "AssetFile": "C:\\SBBTransport\\SBBTransportApp\\obj\\Debug\\net9.0\\compressed\\sjekm3t3mb-y0u07ut4gc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 13:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0u07ut4gc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d8S7ldHTSbelis/JBVG5kWu/PGIXfQkBE4GUZYUoarc="
         }
       ]
     },
